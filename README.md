@@ -3,3 +3,5 @@ This module was made for a Titanium Application using the Corillo Apps Core Fram
 
 # Map Module Instruction Guide
 Coming Soon
+
+# License: [arlo.mit-license.org](http://arlo.mit-license.org)
